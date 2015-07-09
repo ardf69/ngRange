@@ -5,4 +5,4 @@ An Angularjs &lt;input type="range"> html tag that avoids the wrong value positi
 angularjs 1.2+
 
 # Usage
-<ngRange ngRangeMin="<expression>" ngRangeMax="<expression>" ngRangeStep="<expression>" ngModel="<model>">
+&lt;ngRange ngRangeMin="expression" ngRangeMax="expression" ngRangeStep="expression" ngModel="model">
