@@ -21,9 +21,9 @@ angularjs 1.2+
 </script>
 ...
 <ngRange 
-  ngRangeMin="" 
-  ngRangeMax="" 
-  ngRangeStep="" 
+  [ngRangeMin=""] 
+  [ngRangeMax=""] 
+  [ngRangeStep=""] 
   ngModel="">
 ...
 </ngRange>
