@@ -10,7 +10,7 @@ angularjs 1.2+
 <script type="text/javascript" src="[PATH]/ngRange.js"></script>
 ...
 <script>
-  var module = angular.module(
+  ... angular.module(
     ...,
     [
       ...
@@ -18,6 +18,7 @@ angularjs 1.2+
       ...
     ]
   );
+  ...
 </script>
 ...
 <ngRange 
