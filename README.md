@@ -6,6 +6,8 @@ angularjs 1.2+
 
 # Usage
 ```
+<script type="text/javascript" src="[PATH]/ngRange.js"></script>
+...
 <ngRange 
   ngRangeMin="" 
   ngRangeMax="" 
