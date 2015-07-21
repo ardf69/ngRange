@@ -6,7 +6,19 @@ angularjs 1.2+
 
 # Usage
 ```
+<script type="text/javascript" src="[PATH]/angular.min.js"></script>
 <script type="text/javascript" src="[PATH]/ngRange.js"></script>
+...
+<script>
+  var module = angular.module(
+    ...,
+    [
+      ...
+      'ngRange',
+      ...
+    ]
+  );
+</script>
 ...
 <ngRange 
   ngRangeMin="" 
