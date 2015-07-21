@@ -17,7 +17,7 @@ angularjs 1.2+
 
 Param | Type | Details
 ------|------|--------
-ngRangeMin | [expression](https://code.angularjs.org/1.3.16/docs/guide/expression) | The optional minimum value of the range (0 if it's omitted). 
-ngRangeMax | [expression](https://code.angularjs.org/1.3.16/docs/guide/expression) | The optional maximum value of the range (100 if it's omitted). 
-ngRangeStep | [expression](https://code.angularjs.org/1.3.16/docs/guide/expression) | The optional step value of the range (1 if it's omitted). 
+ngRangeMin *(optional)* | [expression](https://code.angularjs.org/1.3.16/docs/guide/expression) | The minimum value of the range (default 0). 
+ngRangeMax *(optional)* | [expression](https://code.angularjs.org/1.3.16/docs/guide/expression) | The maximum value of the range (default 100). 
+ngRangeStep *(optional)* | [expression](https://code.angularjs.org/1.3.16/docs/guide/expression) | The step value of the range (default 1). 
 ngModel | string | Assignable angular expression to data-bind to. 
